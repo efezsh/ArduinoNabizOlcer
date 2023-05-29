@@ -5,7 +5,7 @@ Gereken Kütüphaneler:
 ---
 Adafruit PCD8544 Nokia 5110 LCD ve Adafruit GFX. Kütüphaneleri eklemek için [https://www.robocombo.com/blog/icerik/arduino-ile-nokia-5110-lcd-ekran-kullanimi-resim-yazdirma](https://www.robocombo.com/blog/icerik/arduino-ile-nokia-5110-lcd-ekran-kullanimi-resim-yazdirma) bu linke göz atabilirsiniz.
 
-Gereken Malzemeler (16x2 i2c-LCD Ekran ile):
+Gereken Malzemeler:
 ---
 ```
 Arduino Uno/Nano
