@@ -27,3 +27,10 @@ Jumper Kablo
 3 Erkek-Erkek Jumper Kablo
 3 Dişi-Dişi Jumper Kablo
 ```
+Devre Şeması (Uno):
+---
+<img src="https://github.com/efezsh/ArduinoNabizOlcer/blob/main/NabizOlcer-DevreSemasiUNO.png?raw=true">
+
+Devre Şeması (Nano):
+---
+<img src="https://github.com/efezsh/ArduinoNabizOlcer/blob/main/NabizOlcer-DevreSemasiNANO.png?raw=true">
