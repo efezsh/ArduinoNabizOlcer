@@ -46,13 +46,13 @@ void loop()
      display.setTextSize(1);
      display.println("bpm");
    } else if (nabiz2 < 0) {
-     display.setCursor(38,20);
+     display.setCursor(45,20);
      display.setTextSize(1);
      display.println("HATA");
    }
    eskideger=deger;
    eskiyenileme=yenileme;
-   delay(period*250);
+   delay(period*125);
    display.display();
    display.clearDisplay();  
 }
